@@ -36,7 +36,8 @@ A clean and professional resume built using HTML and CSS. This project highlight
 
 ## 📬 Contact
 
-- GitHub: [@Abbas-Developer](https://github.com/Abbas-Devloper)  
+- GitHub: [@Abbas-Developer](https://github.com/Abbas-Devloper)
+- Roadmap.sh: [https://roadmap.sh/projects/single-page-cv]
 - YouTube: [FrontEnd with Abbas](#)  
 - Email: soomromuhammadabbas671@gmail.com  
 
