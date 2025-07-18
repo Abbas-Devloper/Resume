@@ -4,10 +4,10 @@ A clean and professional resume built using HTML and CSS. This project highlight
 
 ---
 
+
 ## 📸 Preview
 
-![Resume Screenshot](<img width="1495" height="857" alt="Screenshot (762)" src="https://github.com/user-attachments/assets/7e34bfed-762d-47ed-82e9-d8e4f1e22a1f" />
-)
+![Resume Screenshot](./ecb9b500-da77-434d-ae05-9df22ce32ee0.png)
 
 ---
 
