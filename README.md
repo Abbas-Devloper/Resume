@@ -7,7 +7,8 @@ A clean and professional resume built using HTML and CSS. This project highlight
 
 ## 📸 Preview
 
-![Resume Screenshot](Resume By Abbas.png)
+![Resume Screenshot](./Resume-By-Abbas.png)
+
 
 ---
 
